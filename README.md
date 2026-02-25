@@ -1,5 +1,49 @@
 # sound-
 
+
+## short gear
+
+## mac  click
+
+## footsteps-tap
+
+## repeat
+
+## looping
+
+## click glitch
+
+## Click delay
+
+## Tap
+
+msg
+
+Click
+
+Coin
+
+Wheel
+
+Bubble
+
+short glitch
+
+metalic glitch
+
+pepar transiton 
+
+Vanish
+
+pop pop
+
+short geaire
+
+## msg type
+
+tap click
+
+
 # pixabay serching tram
 
 https://www.instagram.com/reptor_hu/?hl=en
